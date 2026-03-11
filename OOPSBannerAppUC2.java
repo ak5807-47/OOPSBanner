@@ -1,11 +1,11 @@
 /**
- * OOPSBannerApp
- * Use Case 1 (UC1): Printing the literal text "OOPS" to the console.
+ * OOPSBannerAppUC2
+ * Use Case 2 (UC2): Printing the text "OOPS" as an ASCII banner.
  * 
  * @author ak5807-47
  * @version 1.0
  */
-public class OOPSBannerApp {
+public class OOPSBannerAppUC2 {
 
     /**
      * The main method, serving as the application's entry point.
